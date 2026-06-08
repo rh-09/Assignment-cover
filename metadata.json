@@ -1,0 +1,6 @@
+{
+  "name": "Assignment Cover Page Architect",
+  "description": "Automates university academic assignment cover sheet styling, previews, and exports to PDF and Word documents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
